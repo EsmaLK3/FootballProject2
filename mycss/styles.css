@@ -147,3 +147,13 @@ h2{
   padding-top: 30px;
   padding-bottom: 30px;
 }
+/*hr{
+  width: 7px;
+  border-width: 30px;
+  border-image: url('/Users/EsmaLK3/Desktop/Webdevelopment/Football Project/images/dotted-img.svg') 30px round;
+  display: inline-block;
+}*/
+.dotted{
+  width: 10%;
+
+}
